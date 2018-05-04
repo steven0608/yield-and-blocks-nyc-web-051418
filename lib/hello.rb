@@ -8,4 +8,4 @@ def hello_t(array)
 array
 end
 # call your method here!
-hello_t()
+hello_t(array)
