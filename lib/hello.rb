@@ -14,4 +14,4 @@ array
 end
 # call your method here!
 
-hello_t(array)
+hello_t(array){ |x| puts x}
